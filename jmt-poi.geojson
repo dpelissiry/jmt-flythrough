@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.35892, 36.559326]
+      },
+      "properties": {
+        "name": "Mount Whitney Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.373436, 36.694386]
+      },
+      "properties": {
+        "name": "Forester Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.24874, 37.7612]
+      },
+      "properties": {
+        "name": "Donohue Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.194534, 37.737072]
+      },
+      "properties": {
+        "name": "Island Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.41197, 36.789352]
+      },
+      "properties": {
+        "name": "Glen Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.41228, 36.936207]
+      },
+      "properties": {
+        "name": "Pinchot Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.459656, 37.03144]
+      },
+      "properties": {
+        "name": "Mather Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.67024, 37.111736]
+      },
+      "properties": {
+        "name": "Muir Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.87271, 37.289383]
+      },
+      "properties": {
+        "name": "Seldon Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.92262, 37.470005]
+      },
+      "properties": {
+        "name": "Silver Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.94906, 37.527664]
+      },
+      "properties": {
+        "name": "Purple Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.07515, 37.610085]
+      },
+      "properties": {
+        "name": "Reds Meadows"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.38354, 37.872246]
+      },
+      "properties": {
+        "name": "Tuolumne Meadows Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.41555, 37.83443]
+      },
+      "properties": {
+        "name": "Cathedral Pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.43211, 37.79456]
+      },
+      "properties": {
+        "name": "Sunrise Camp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.26127, 37.79164]
+      },
+      "properties": {
+        "name": "Lyell Fork Base Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.37013, 36.594788]
+      },
+      "properties": {
+        "name": "Wallace Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.43961, 36.87344]
+      },
+      "properties": {
+        "name": "Woods Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.44583, 36.969917]
+      },
+      "properties": {
+        "name": "Taboose Pass Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.578186, 37.0523]
+      },
+      "properties": {
+        "name": "Palisade Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.86113, 37.225853]
+      },
+      "properties": {
+        "name": "Blaney Meadows Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.88829, 37.368317]
+      },
+      "properties": {
+        "name": "Bear Creek Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.91966, 37.38864]
+      },
+      "properties": {
+        "name": "Bear Ridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.923996, 37.412575]
+      },
+      "properties": {
+        "name": "Mono Creek Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.09892, 37.645397]
+      },
+      "properties": {
+        "name": "Johnson Meadow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.12046, 37.687386]
+      },
+      "properties": {
+        "name": "Rosalie Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.15119, 37.71516]
+      },
+      "properties": {
+        "name": "Garnet Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.17016, 37.72847]
+      },
+      "properties": {
+        "name": "Thousand Island Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.33289, 37.86845]
+      },
+      "properties": {
+        "name": "Tuolumne Meadows Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.51198, 37.74516]
+      },
+      "properties": {
+        "name": "Halfdome Trail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.55743, 37.73266]
+      },
+      "properties": {
+        "name": "Happy Isle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.29241, 36.57823]
+      },
+      "properties": {
+        "name": "Whitney Summit"
+      }
+    }
+  ]
+}
